@@ -1,0 +1,22 @@
+$white_fff: #ffffff;
+
+body {
+  background-color: $white_fff;
+}
+
+main {
+  width: 100%;
+
+  img {
+    height: auto;
+    max-width: 100%;
+  }
+}
+
+.className {
+  width: 100%;
+
+  div {
+    margin: 0 auto;
+  }
+}

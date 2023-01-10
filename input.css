@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+  background-color: #fff;
+}
+
+main {
+  width: 100%;
+}
+
+main img {
+  max-width: 100%;
+  height: auto;
+}
+
+.className {
+  width: 100%;
+}
+
+.className div{
+  margin: 0 auto;
+}
